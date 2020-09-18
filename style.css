@@ -4,7 +4,7 @@ body {
     background: #FFF;
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    -moz-osx-font-smoothing: grayscale;  
 }
 
 a,
@@ -90,6 +90,11 @@ a:hover {
     right: 0;
 }
 
+.bloc
+{
+    color: blueviolet;
+}
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
@@ -97,14 +102,6 @@ a:hover {
 
 .b-parallax {
     background-attachment: fixed;
-}
-
-.d-bloc {
-    color: rgba(255, 255, 255, .7);
-}
-
-.d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
 }
 
 .d-bloc .icon-round,
@@ -122,8 +119,7 @@ a:hover {
 .d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
-.d-bloc a .icon-sm,
-.d-bloc a .icon-md,
+.d-bloc a .icon-sm, 
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -134,6 +130,12 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
+}
+
+
+.icon-md
+{
+    color: blueviolet;
 }
 
 .d-bloc .a-btn:hover,
@@ -216,7 +218,7 @@ a:hover {
     border-color: rgba(0, 0, 0, .1);
 }
 
-.d-bloc .panel .a-btn,
+.d-bloc .panel .a-btn, 
 .l-bloc .a-btn,
 .l-bloc .navbar a,
 .l-bloc .navbar-brand,
@@ -771,25 +773,25 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #FFA000;
+    background-color: #F3976C;
 }
 
 .tc-white {
-    color: #FFA000!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
-    background: #FFA000;
+    background: #F3976C;
     color: #090909!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background:  #FFA000!important;
+    background:  #F3976C!important;
     color: #090909!important;
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #090909!important;
 }
 
 .ltc-white:hover {
