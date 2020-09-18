@@ -133,7 +133,7 @@ a:hover {
 }
 
 
-.icon-md
+.icon-md,
 {
     color: blueviolet;
 }
@@ -152,7 +152,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #090909;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -161,7 +161,7 @@ a:hover {
 
 .d-bloc .btn-wire,
 .d-bloc .btn-wire:hover {
-    color: rgba(255, 255, 255, 1);
+    color: #090909;
     border-color: rgba(255, 255, 255, 1);
 }
 
@@ -458,7 +458,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-    color: #FFF;
+    color: #090909;
     background: rgba(0, 0, 0, .3);
 }
 
@@ -547,7 +547,7 @@ a[data-lightbox]:hover::before {
     margin-left: -25px;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
-    color: #FFF;
+    color: #090909;
     font-weight: 100;
     z-index: 1;
     position: absolute;
@@ -580,7 +580,7 @@ a[data-lightbox]:hover img {
 
 .lightbox-caption {
     padding: 20px;
-    color: #FFF;
+    color: #090909;
     background: rgba(0, 0, 0, .5);
     position: absolute;
     left: 15px;
@@ -589,7 +589,7 @@ a[data-lightbox]:hover img {
 }
 
 .close-lightbox {
-    color: #FFF;
+    color: #090909;
     font-size: 30px;
     position: absolute;
     top: 20px;
@@ -606,13 +606,13 @@ a[data-lightbox]:hover img {
 .next-lightbox:hover,
 .prev-lightbox:hover {
     opacity: 1.0;
-    color: #FFF;
+    color: #090909;
 }
 
 .next-lightbox,
 .prev-lightbox {
     font-size: 20px;
-    color: rgba(255, 255, 255, .9);
+    color: #090909;
     background: rgba(0, 0, 0, .5);
     transition: all .2s ease-in-out;
     position: absolute;
@@ -694,7 +694,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #090909!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 18px;
@@ -738,7 +738,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #090909!important;
 }
 
 .portfolio-thumb {
@@ -777,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f0b295!important;
 }
 
 .btn-atomic-tangerine {
