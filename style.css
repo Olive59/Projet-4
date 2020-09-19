@@ -127,12 +127,6 @@ a:hover {
     color: rgba(255, 255, 255, .6);
 }
 
-
-.icon-md,
-{
-    color: blueviolet;
-}
-
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
@@ -473,7 +467,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 48px!important;
 }
 
 .icon-lg {
