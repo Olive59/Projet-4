@@ -80,6 +80,8 @@ a:hover {
     background: top no-repeat;
 }
 
+
+
 .bloc-bg-texture::before {
     content: "";
     background-size: 2px 2px;
@@ -769,6 +771,14 @@ h4 {
     color: #F3976C!important;
 }
 
+.tc-black {
+    color: #000!important;
+    font-weight: 700;
+}
+
+.bg-black {
+   color: #000!important;
+}
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #090909!important;
