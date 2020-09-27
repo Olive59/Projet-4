@@ -786,6 +786,13 @@ h4 {
     font-weight: 700;
 }
 
+.bold
+{
+    font-weight: 700;
+    font-size: 14px;
+    color: #090909;
+}
+
 .text-centre
 {
     text-align: center;
