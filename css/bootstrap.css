@@ -2066,7 +2066,15 @@ pre code {
     position: relative;
     min-height: 1px;
     padding-right: 15px;
-    padding-left: 15px
+    
+}
+
+.col-sm-news
+{
+    position: relative;
+    min-height: 1px;
+    margin-left: 350px;
+    float: left
 }
 
 .col-xs-1,
