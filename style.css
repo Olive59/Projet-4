@@ -142,6 +142,12 @@ button {
 
 .icon-md {
     font-size: 48px!important;
+    color:#333;
+}
+
+.icon-md:hover{
+    color:#e70f0f;
+    
 }
 
 .icon-lg {
@@ -495,3 +501,4 @@ h1 {
     form {
         padding: 5px;
     }
+}
