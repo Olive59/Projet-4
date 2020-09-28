@@ -58,7 +58,7 @@ a:hover {
 }
 
 .bloc-sm {
-    padding: 20px 50px;
+    padding: 20px 50px 20px 40px;
 }
 
 .bg-center,
@@ -648,8 +648,9 @@ label,
 .btn,
 a {
     font-family: "helvetica";
-    font-weight: 400;
-    color: #575757!important;
+    font-weight: 700;
+    color: #1b1919!important;
+    
 }
 
 .container {
@@ -798,12 +799,12 @@ h4 {
     text-align: center;
 }
 
-.page-2-paragraphe
+.page-1-paragraphe
 {
     font-size: 12px;
     text-align: center; 
     width: 50%;  
-    margin-left: 440px;
+    margin-left: 400px;
     padding: 20px;
 }
 
@@ -995,6 +996,12 @@ h4 {
         max-height: 40px;
         width: auto;
     }
+
+    .header-page-1
+    {
+        padding-right: 20px;
+    }
+
     .nav-invert .navbar-header {
         float: none;
         width: 100%;
