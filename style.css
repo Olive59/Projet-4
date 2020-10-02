@@ -330,6 +330,12 @@ h3 {
     color: #333333!important;
 }
 
+.envoyer
+{
+    width: 150px;
+    margin: auto;
+}
+
 .med-width-whitespace {
     max-width: 800px;
     margin: auto auto auto auto;
@@ -399,7 +405,7 @@ h1 {
     font-size: 12px;
     text-align: center; 
     width: 50%;  
-    margin-left: 400px;
+    margin-left: 390px;
     padding: 20px;
 }
 

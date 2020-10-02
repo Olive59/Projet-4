@@ -205,8 +205,7 @@
 	<div class="bloc-lg">
 		<div class="centre">
 			<div class="col-sm-news">
-				<form id="form_1" novalidate success-msg="Your message has been sent." 
-				fail-msg="Sorry it seems that our mail server is not responding, Sorry for the inconvenience!">
+				<form id="form_1" novalidate>
 					
 					<div class="text-centre form-group">
 						<label for="name">
@@ -217,13 +216,14 @@
 					<div class="text-centre form-group">
 						<label for="email">
 							Adresse email					
-						<input id="email" class="form-control" type="email" required />	</label>
+							<input id="email" class="form-control" type="email" required />
+						</label>
 					</div>
 					
 					<div class="text-centre form-group">
 						<label for="question">
 							Comment nous avez-vous connu ?					
-						<input id="question" class="text-centre form-control" type="email" required id="input_504" />
+						<input id="question" class="text-centre form-control" type="email" />
 						</label>
 					</div>
 
@@ -234,7 +234,7 @@
 					</div> 
 
 					<div class="text-centre form-group">									
-						<button aria-label="envoyer" class="bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">
+						<button aria-label="envoyer" class="envoyer bloc-button btn btn-lg btn-block cta-hero btn-atomic-tangerine" type="submit">
 							Envoyer
 						</button>											
 					</div>
