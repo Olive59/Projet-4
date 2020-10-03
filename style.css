@@ -390,6 +390,15 @@ h1 {
     color: #F3976C!important;
 }
 
+.tc-color {
+    color: #F3976C!important;
+}
+
+.tc-blanc{
+    color:#FFF!important;
+    font-size: 20px!important;
+}
+
 .tc-black {
     color: #000!important;
     font-weight: 700;
